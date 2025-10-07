@@ -19,7 +19,7 @@
 `Python` • `C++` • `JavaScript` • `SQL` • `Java` • `C` 
 
 **Frameworks & Libraries**  
-`React` • `React Native` • `Node.js` • `Express.js` • `TensorFlow` • `PyTorch` • `scikit-learn`
+`React` • `React Native` • `Node.js` • `Express.js` • `PyTorch` • `scikit-learn`
 
 **Databases & Tools**  
 `PostgreSQL` • `Git` • `Docker` • `Linux`
