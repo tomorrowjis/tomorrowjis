@@ -9,7 +9,8 @@
 - 🎓 **BSc Student** in Information & Communication Technology (ICT)  
 - 🧩 Exploring **Machine Learning**, **Large Language Models (LLMs)**, and **Web Applications**  
 - 🧰 Building end-to-end projects from **data pipelines → ML models → full-stack apps**    
-- 💬 I write, code, and investigate — connecting **AI, data, and truth**  
+- 💬 I write, code, and investigate — connecting **AI, data, and truth**
+- 🎓 Please scroll a little down to see my repositories.
 
 ---
 
